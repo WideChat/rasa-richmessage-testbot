@@ -1,0 +1,1 @@
+## Richmessage testbot in Rasa
