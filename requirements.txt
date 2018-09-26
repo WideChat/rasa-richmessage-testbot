@@ -33,4 +33,4 @@ pymongo==3.5.1
 python-dateutil==2.7.3
 spacy==2.0.12
 sklearn_crfsuite==0.3.6
-git+ssh://git@github.com/kb0304/rasa_core.git@1a56a018cfccb31a4f9001ea99a8f0699cc71228#egg=rasa_core
+git+git://github.com/kb0304/rasa_core.git@1a56a018cfccb31a4f9001ea99a8f0699cc71228#egg=rasa_core
